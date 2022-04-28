@@ -3,7 +3,7 @@
 This project is inspired by the app SeeFood from the TV Show Silicon Valley.
 It uses SwiftUI to build the interface, the Apple machine learning model MobileNetV2 to classify the images, and Swift 5.1 to build the functionality.
 
-<img  src="background_maroon-01.png" border="0">
+<img  src="hotdog.png" border="0" width="300">
 
 ## How I did it
 - 1. Create the interface
